@@ -1,2 +1,2 @@
-# SA Bushfire Data-Project
+# Data-Project
 Bushfire History across SA
